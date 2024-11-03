@@ -34,7 +34,6 @@ Ensure to preprocess the dataset for optimal model performance.
 - OpenCV
 - NumPy
 - Matplotlib
-- [Any other libraries or tools you used]
 
 ## Model Architecture
 
